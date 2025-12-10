@@ -1,0 +1,45 @@
+## Ignore all Markdown files for notes/docs
+*.md
+# But keep the main README
+!README.md
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Mac / Linux System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+*~
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Avalonia specific
+*.avalonia.user
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Sensitive Config (Optional but recommended)
+appsettings.Development.json
+appsettings.local.json
