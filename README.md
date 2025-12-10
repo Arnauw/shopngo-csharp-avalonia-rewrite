@@ -35,5 +35,5 @@ The solution follows a clean 3-tier architecture:
 3.  **Setup:**
     *   Clone the repository.
     *   Run `dotnet restore`.
-    *   Use the "**`Run All`**" configuration to launch both the API and the Client simultaneously.  
+    *   Use the **`Run All`** configuration to launch both the API and the Client simultaneously.  
         
